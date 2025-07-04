@@ -1,6 +1,6 @@
 name: flo.osinski
 description: Enterprise-wide
-version: v1.3.0
+version: v1.3.0-SNAPSHOT
 author: null
 language: scala
 buildSystem: ''
