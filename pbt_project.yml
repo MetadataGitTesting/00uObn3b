@@ -1,0 +1,50 @@
+name: flo.osinski
+description: Enterprise-wide
+version: 0.0.1-SNAPSHOT
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: floosinski
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-07-04 20:30:27'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-07-04 20:30:27'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-07-04T20:30:27.668711Z'
+  name: plibMaven
+  version: 8.12.0-SNAPSHOT
+  id: '1156149470'
+  createdAt: '2025-07-04T20:30:27.668711Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
